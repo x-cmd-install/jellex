@@ -7,7 +7,7 @@ about:
   head: 9a57e45
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:40:06Z
+  collectedAt: 2026-09-04T20:55:20Z
 timeline:
   created: 2021-06-29
   lastCommit: 2023-10-24
@@ -81,6 +81,44 @@ total:
   openIssue: 2
   commit: 95
 ---
+path: /home/runner/.x-repo/github.com/kellyjonbrazil/jellex
+collectedAt: 2026-09-04T20:55:21Z
+loc:
+  Python:
+    code: 231
+    comments: 13
+    blanks: 63
+    files: 4
+  Sh:
+    code: 3
+    comments: 5
+    blanks: 1
+    files: 3
+  ForgeConfig:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Autoconf:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 40
+    blanks: 22
+    files: 1
+  Text:
+    code: 0
+    comments: 3
+    blanks: 0
+    files: 1
+total:
+  code: 238
+  comments: 61
+  blanks: 86
+  files: 11
 ---
 date: "2026-08-24"
 repo:
